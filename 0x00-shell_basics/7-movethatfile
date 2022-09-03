@@ -1,0 +1,3 @@
+
+#!/bin/bash
+mv -i /tmp/betty.txt /tmp/my_first_directory
